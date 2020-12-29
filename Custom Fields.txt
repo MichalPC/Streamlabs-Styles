@@ -1,0 +1,101 @@
+{
+    "chatbox-padding": {
+        "label": "Chatbox Padding:",
+        "type": "slider",
+        "name": "",
+        "value": 0.85,
+        "max": 2,
+        "min": 0,
+        "steps": 0.05
+    },
+    "background-alpha-value": {
+        "label": "Background Alpha Value:",
+        "type": "slider",
+        "name": "",
+        "value": 0.5,
+        "max": 1,
+        "min": 0,
+        "steps": 0.05
+    },
+    "chatbox-border-radius": {
+        "label": "Chatbox Border Radius:",
+        "type": "slider",
+        "name": "",
+        "value": 0,
+        "max": 40,
+        "min": 0,
+        "steps": 1
+    },
+    "message-border-radius": {
+        "label": "Message Border Radius:",
+        "type": "slider",
+        "name": "",
+        "value": 0,
+        "max": 40,
+        "min": 0,
+        "steps": 1
+    },
+    "chatbox-border-width": {
+        "label": "Chatbox Border Width:",
+        "type": "slider",
+        "name": "",
+        "value": 6,
+        "max": 15,
+        "min": 0,
+        "steps": 0.5
+    },
+    "message-border-width": {
+        "label": "Message Border Width:",
+        "type": "slider",
+        "name": "",
+        "value": 5.5,
+        "max": 15,
+        "min": 0,
+        "steps": 0.5
+    },
+    "message-border-colour": {
+        "label": "Message Border Colour:",
+        "type": "colorpicker",
+        "value": "#FFFFFF"
+    },
+    "chatbox-border-colour": {
+        "label": "Chatbox Border Colour:",
+        "type": "colorpicker",
+        "value": "#ff8d28"
+    },
+    "message-background-colour": {
+        "label": "Message Background Colour",
+        "type": "colorpicker",
+        "value": "#212121"
+    },
+    "customField3": {
+        "label": "Textfield Example",
+        "type": "textfield",
+        "value": "Hi There"
+    },
+    "customField4": {
+        "label": "Font Picker Example",
+        "type": "fontpicker",
+        "value": "Open Sans"
+    },
+    "customField5": {
+        "label": "Dropdown Example",
+        "type": "dropdown",
+        "options": {
+            "optionA": "Option A",
+            "optionB": "Option B",
+            "optionC": "Option C"
+        },
+        "value": "optionB"
+    },
+    "customField6": {
+        "label": "Image Input Example",
+        "type": "image-input",
+        "value": null
+    },
+    "customField7": {
+        "label": "Sound Input Example",
+        "type": "sound-input",
+        "value": null
+    }
+}
